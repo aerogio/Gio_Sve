@@ -1,0 +1,42 @@
+* Gio's Swedish personal dictionary
+
+Hej Hej, this is my attempt to learn Swedish
+better. This of course does not apply only to
+Swedish, but could be apply to every
+language. It's a hard way of learning and requires
+discipline and brutal will power
+
+** Motive  
+
+I realized that what I miss is mainly vocabulary,
+so I looked online for some application to learn
+more vocabulary, and try to speak more.  The
+problem is that the words are always the same and
+they are *not* the words I want to learn. For this
+reason I figured, why not create a dictionary for
+myself. Of course a lot of teachers (mainly old
+ones) suggest to keep a private dictionary in
+paper or digitally, but this has the Big flaws of
+being superboring to maintain, read, search and
+mainly that there is no actually motive that
+pushes you to learn. 
+
+For this reason, this little program is not *just*
+a dictionary, but it's also a /game/.
+
+** How does this work?
+** Future Improvements
+
+There are some improvements I would like to add:
+
+1. GUI or make it become an APP
+2. Be able to see the entire dictionary
+3. Search in the dictionary
+
+** Bugs
+
+This version has the following bugs:
+
+1. ...
+
+   
