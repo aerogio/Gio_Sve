@@ -1,30 +1,15 @@
 * Gio's Swedish personal dictionary
 
-Hej Hej, this is my attempt to learn Swedish
-better. This of course does not apply only to
-Swedish, but could be apply to every
-language. It's a hard way of learning and requires
-discipline and brutal will power
+Hej Hej, this is my attempt to improve my Swedish vocabulary and learn Swedish better. This of course does not apply only to Swedish, but to every language. It's a hard way of learning and requires discipline and brutal will power. But I think it makes sense and it is one thing that I need. 
 
 ** Motive  
 
-I realized that what I miss is mainly vocabulary,
-so I looked online for some application to learn
-more vocabulary, and try to speak more.  The
-problem is that the words are always the same and
-they are *not* the words I want to learn. For this
-reason I figured, why not create a dictionary for
-myself. Of course a lot of teachers (mainly old
-ones) suggest to keep a private dictionary in
-paper or digitally, but this has the Big flaws of
-being superboring to maintain, read, search and
-mainly that there is no actually motive that
-pushes you to learn. 
+I realized that what I miss is mainly vocabulary, so I looked online for some application to learn more words, and try to speak more.  The problem is that the words are always the same and they are *not* the words I want to learn. For this reason I figured, why not create a dictionary for myself. Of course a lot of teachers (mainly old ones) suggest to keep a private dictionary in paper or digitally, which comes with the Big flaw of being superboring to maintain, read, search and mainly also I realized that there is no actual motive that pushes you to learn by using it.
 
 For this reason, this little program is not *just*
 a dictionary, but it's also a /game/.
 
-** How does this work?
+# ** How does this work?
 ** Future Improvements
 
 There are some improvements I would like to add:
@@ -33,7 +18,7 @@ There are some improvements I would like to add:
 2. Be able to see the entire dictionary
 3. Search in the dictionary
 
-** Bugs
+# ** Bugs
 
 This version has the following bugs:
 
