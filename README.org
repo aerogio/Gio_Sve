@@ -18,10 +18,11 @@ There are some improvements I would like to add:
 2. Be able to see the entire dictionary
 3. Search in the dictionary
 
+
 # ** Bugs
 
-This version has the following bugs:
+# This version has the following bugs:
 
-1. ...
+# 1. ...
 
    
